@@ -1,1 +1,2 @@
 # ReskiDwiRamadhaniIrawan_F55121050_DATASETS_DIABETES
+Program dapat dijalankan pada google colab
